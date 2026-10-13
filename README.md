@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/rixshavv/LeetCode/tree/master/1598-crawler-log-folder) |
+## Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/rixshavv/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/rixshavv/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/rixshavv/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
