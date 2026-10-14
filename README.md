@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rixshavv/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rixshavv/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rixshavv/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
 | [2600-k-items-with-the-maximum-sum](https://github.com/rixshavv/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rixshavv/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
