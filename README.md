@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/rixshavv/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/rixshavv/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rixshavv/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/rixshavv/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/rixshavv/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
