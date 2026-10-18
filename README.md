@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/rixshavv/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/rixshavv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0482-license-key-formatting](https://github.com/rixshavv/LeetCode/tree/master/0482-license-key-formatting) |
 | [1598-crawler-log-folder](https://github.com/rixshavv/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/rixshavv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
