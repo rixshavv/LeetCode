@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rixshavv/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/rixshavv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0482-license-key-formatting](https://github.com/rixshavv/LeetCode/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/rixshavv/LeetCode/tree/master/0520-detect-capital) |
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/rixshavv/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
