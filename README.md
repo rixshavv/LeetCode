@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rixshavv/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rixshavv/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rixshavv/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/rixshavv/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rixshavv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rixshavv/LeetCode/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/rixshavv/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rixshavv/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rixshavv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/rixshavv/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rixshavv/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
