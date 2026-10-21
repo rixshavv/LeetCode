@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/rixshavv/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rixshavv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/rixshavv/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rixshavv/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rixshavv/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
