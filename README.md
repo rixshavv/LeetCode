@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rixshavv/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/rixshavv/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/rixshavv/LeetCode/tree/master/0929-unique-email-addresses) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rixshavv/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/rixshavv/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rixshavv/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/rixshavv/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/rixshavv/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -204,10 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rixshavv/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 ## DP on Trees
 |  |
 | ------- |
