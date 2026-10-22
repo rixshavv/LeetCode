@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rixshavv/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rixshavv/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/rixshavv/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/rixshavv/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/rixshavv/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -212,12 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/rixshavv/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
