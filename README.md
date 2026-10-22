@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/rixshavv/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rixshavv/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rixshavv/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rixshavv/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/rixshavv/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rixshavv/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
