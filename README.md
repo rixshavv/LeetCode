@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3613-minimize-maximum-component-cost](https://github.com/rixshavv/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
 ## Brainteaser
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/rixshavv/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3613-minimize-maximum-component-cost](https://github.com/rixshavv/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rixshavv/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rixshavv/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3613-minimize-maximum-component-cost](https://github.com/rixshavv/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rixshavv/LeetCode/tree/master/0547-number-of-provinces) |
+| [3613-minimize-maximum-component-cost](https://github.com/rixshavv/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
 ## Counting
 |  |
 | ------- |
