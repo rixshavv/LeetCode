@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rixshavv/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/rixshavv/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/rixshavv/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/rixshavv/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -316,10 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/rixshavv/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1514-path-with-maximum-probability](https://github.com/rixshavv/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rixshavv/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/rixshavv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rixshavv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -335,4 +338,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rixshavv/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rixshavv/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rixshavv/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
