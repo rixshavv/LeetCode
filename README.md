@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rixshavv/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rixshavv/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/rixshavv/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3613-minimize-maximum-component-cost](https://github.com/rixshavv/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/rixshavv/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Sliding Window
 |  |
@@ -320,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
