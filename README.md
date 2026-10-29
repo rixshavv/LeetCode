@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1598-crawler-log-folder](https://github.com/rixshavv/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rixshavv/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/rixshavv/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rixshavv/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rixshavv/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
