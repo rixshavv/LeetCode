@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rixshavv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rixshavv/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rixshavv/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/rixshavv/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rixshavv/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rixshavv/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/rixshavv/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1598-crawler-log-folder](https://github.com/rixshavv/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1816-truncate-sentence](https://github.com/rixshavv/LeetCode/tree/master/1816-truncate-sentence) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/rixshavv/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Hash Table
 |  |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rixshavv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rixshavv/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rixshavv/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rixshavv/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1859-sorting-the-sentence](https://github.com/rixshavv/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3613-minimize-maximum-component-cost](https://github.com/rixshavv/LeetCode/tree/master/3613-minimize-maximum-component-cost) |
