@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/rixshavv/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rixshavv/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/rixshavv/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/rixshavv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rixshavv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/rixshavv/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rixshavv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1854-maximum-population-year](https://github.com/rixshavv/LeetCode/tree/master/1854-maximum-population-year) |
 ## Union-Find
