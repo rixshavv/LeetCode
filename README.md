@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/rixshavv/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rixshavv/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rixshavv/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/rixshavv/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/rixshavv/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Geometry
 |  |
 | ------- |
