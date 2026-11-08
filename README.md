@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rixshavv/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/rixshavv/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/rixshavv/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/rixshavv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rixshavv/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/rixshavv/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rixshavv/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/rixshavv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0482-license-key-formatting](https://github.com/rixshavv/LeetCode/tree/master/0482-license-key-formatting) |
+| [0516-longest-palindromic-subsequence](https://github.com/rixshavv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/rixshavv/LeetCode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/rixshavv/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
