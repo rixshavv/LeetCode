@@ -1,37 +1,90 @@
-class Solution {
-     List<List<String>> res = new ArrayList<>();
-    List<String> l = new ArrayList<>();
+// class Solution {
+//     private int n;
+    
+//     private boolean isPalindrome(String s, int l, int r) {
+//         while (l < r) {
+//             if (s.charAt(l) != s.charAt(r))
+//                 return false;
+//             l++;
+//             r--;
+//         }
+//         return true;
+//     }
+    
+//     private void backtrack(String s, int idx, List<String> curr, List<List<String>> result) {
+//         if (idx == n) {
+//             result.add(new ArrayList<>(curr));
+//             return;
+//         }
+        
+//         for (int i = idx; i < n; i++) {
+//             if (isPalindrome(s, idx, i)) {
+//                 curr.add(s.substring(idx, i + 1));
+//                 backtrack(s, i + 1, curr, result);
+//                 curr.remove(curr.size() - 1);
+//             }
+//         }
+//     }
+    
+//     public List<List<String>> partition(String s) {
+//         n = s.length();
+//         List<List<String>> result = new ArrayList<>();
+//         List<String> curr = new ArrayList<>();
+        
+//         backtrack(s, 0, curr, result);
+        
+//         return result;
+//     }
+// }
 
-    public void dfs(String s, int start) {
-        if (start == s.length()) {
-            res.add(new ArrayList<>(l));
+
+//Approach-2 (Using DP + Backtracking)
+//T.C : O(2^n)
+//S.C : O(n^2)
+class Solution {
+    public void solve(String s, int i, List<String> currPartition, boolean[][] t, List<List<String>> result) {
+        if (i == s.length()) {
+            result.add(new ArrayList<>(currPartition));
             return;
         }
 
-        for (int i = start; i < s.length(); i++) {
-            if (isPalindrome(s, start, i)) {
-                l.add(s.substring(start, i + 1));
-
-                dfs(s, i + 1);
-
-                l.remove(l.size() - 1);
+        for (int j = i; j < s.length(); j++) {
+            if (t[i][j]) { // palindrome
+                currPartition.add(s.substring(i, j + 1));
+                solve(s, j + 1, currPartition, t, result);
+                currPartition.remove(currPartition.size() - 1);
             }
         }
-    }
-     public boolean isPalindrome(String s, int start, int end) {
-        while (start < end) {
-            if (s.charAt(start) != s.charAt(end)) {
-                return false;
-            }
-            start++;
-            end--;
-        }
-        return true;
     }
 
     public List<List<String>> partition(String s) {
-        dfs(s, 0);
-        return res;
+        int n = s.length();
+        boolean[][] t = new boolean[n][n];
 
+        // Initialize the DP table for palindromic substrings
+        // t[i][j] = true -> s[i...j] is a palindrome
+
+        for (int i = 0; i < n; ++i) {
+            t[i][i] = true; // substring of a single character is always a palindrome
+        }
+
+        for (int L = 2; L <= n; ++L) {
+            for (int i = 0; i < n - L + 1; ++i) {
+                int j = i + L - 1;
+                if (s.charAt(i) == s.charAt(j)) {
+                    if (L == 2) {
+                        t[i][j] = true;
+                    } else {
+                        t[i][j] = t[i + 1][j - 1];
+                    }
+                }
+            }
+        }
+
+        List<List<String>> result = new ArrayList<>();
+        List<String> currPartition = new ArrayList<>();
+        solve(s, 0, currPartition, t, result);
+
+        return result;
     }
 }
