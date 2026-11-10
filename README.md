@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rixshavv/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/rixshavv/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rixshavv/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rixshavv/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/rixshavv/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rixshavv/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/rixshavv/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/rixshavv/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/rixshavv/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/rixshavv/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/rixshavv/LeetCode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/rixshavv/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
