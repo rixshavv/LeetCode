@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/rixshavv/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rixshavv/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/rixshavv/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/rixshavv/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/rixshavv/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/rixshavv/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2643-row-with-maximum-ones](https://github.com/rixshavv/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/rixshavv/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/rixshavv/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## DP on Trees
 |  |
