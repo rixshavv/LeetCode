@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rixshavv/LeetCode/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/rixshavv/LeetCode/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/rixshavv/LeetCode/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/rixshavv/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rixshavv/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rixshavv/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/rixshavv/LeetCode/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/rixshavv/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0343-integer-break](https://github.com/rixshavv/LeetCode/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/rixshavv/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/rixshavv/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/rixshavv/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
