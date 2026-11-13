@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rixshavv/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/rixshavv/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rixshavv/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/rixshavv/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Shortest Path
 |  |
 | ------- |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/rixshavv/LeetCode/tree/master/0474-ones-and-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
