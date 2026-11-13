@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/rixshavv/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rixshavv/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1184-distance-between-bus-stops](https://github.com/rixshavv/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/rixshavv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rixshavv/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/rixshavv/LeetCode/tree/master/1254-number-of-closed-islands) |
