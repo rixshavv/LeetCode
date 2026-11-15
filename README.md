@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/rixshavv/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/rixshavv/LeetCode/tree/master/3019-number-of-changing-keys) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rixshavv/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rixshavv/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rixshavv/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rixshavv/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
