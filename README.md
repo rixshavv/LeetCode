@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rixshavv/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/rixshavv/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rixshavv/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/rixshavv/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/rixshavv/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rixshavv/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/rixshavv/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [2305-fair-distribution-of-cookies](https://github.com/rixshavv/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rixshavv/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/rixshavv/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rixshavv/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/rixshavv/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rixshavv/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2305-fair-distribution-of-cookies](https://github.com/rixshavv/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rixshavv/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Breadth-First Search
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/rixshavv/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rixshavv/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2305-fair-distribution-of-cookies](https://github.com/rixshavv/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -527,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rixshavv/LeetCode/tree/master/0493-reverse-pairs) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/rixshavv/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
