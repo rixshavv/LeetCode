@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/rixshavv/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rixshavv/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/rixshavv/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/rixshavv/LeetCode/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |
