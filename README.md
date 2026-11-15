@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rixshavv/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/rixshavv/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rixshavv/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/rixshavv/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/rixshavv/LeetCode/tree/master/0493-reverse-pairs) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rixshavv/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rixshavv/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rixshavv/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0491-non-decreasing-subsequences](https://github.com/rixshavv/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/rixshavv/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rixshavv/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rixshavv/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rixshavv/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/rixshavv/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/rixshavv/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rixshavv/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/rixshavv/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rixshavv/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
