@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/rixshavv/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rixshavv/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rixshavv/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/rixshavv/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rixshavv/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rixshavv/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/rixshavv/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1854-maximum-population-year](https://github.com/rixshavv/LeetCode/tree/master/1854-maximum-population-year) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Enumeration
 |  |
 | ------- |
