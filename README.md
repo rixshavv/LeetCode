@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rixshavv/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/rixshavv/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rixshavv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/rixshavv/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rixshavv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
