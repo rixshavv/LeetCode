@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/rixshavv/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/rixshavv/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0929-unique-email-addresses](https://github.com/rixshavv/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/rixshavv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rixshavv/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/rixshavv/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/rixshavv/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rixshavv/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/rixshavv/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0929-unique-email-addresses](https://github.com/rixshavv/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/rixshavv/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1048-longest-string-chain](https://github.com/rixshavv/LeetCode/tree/master/1048-longest-string-chain) |
