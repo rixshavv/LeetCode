@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/rixshavv/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rixshavv/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3136-valid-word](https://github.com/rixshavv/LeetCode/tree/master/3136-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/rixshavv/LeetCode/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/rixshavv/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
 | ------- |
