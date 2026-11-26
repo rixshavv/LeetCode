@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rixshavv/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/rixshavv/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/rixshavv/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3360-stone-removal-game](https://github.com/rixshavv/LeetCode/tree/master/3360-stone-removal-game) |
 | [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rixshavv/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/rixshavv/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [3360-stone-removal-game](https://github.com/rixshavv/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
