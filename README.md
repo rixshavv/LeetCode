@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/rixshavv/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rixshavv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rixshavv/LeetCode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/rixshavv/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3978-unique-middle-element](https://github.com/rixshavv/LeetCode/tree/master/3978-unique-middle-element) |
 ## Greedy
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rixshavv/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/rixshavv/LeetCode/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/rixshavv/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/rixshavv/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3360-stone-removal-game](https://github.com/rixshavv/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/rixshavv/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Geometry
 |  |
 | ------- |
