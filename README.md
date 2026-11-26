@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/rixshavv/LeetCode/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rixshavv/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rixshavv/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rixshavv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/rixshavv/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rixshavv/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rixshavv/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/rixshavv/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/rixshavv/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rixshavv/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rixshavv/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/rixshavv/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2678-number-of-senior-citizens](https://github.com/rixshavv/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rixshavv/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rixshavv/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rixshavv/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/rixshavv/LeetCode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3360-stone-removal-game](https://github.com/rixshavv/LeetCode/tree/master/3360-stone-removal-game) |
