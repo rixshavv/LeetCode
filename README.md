@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/rixshavv/LeetCode/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rixshavv/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/rixshavv/LeetCode/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/rixshavv/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rixshavv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rixshavv/LeetCode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rixshavv/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Indexed Tree
 |  |
 | ------- |
