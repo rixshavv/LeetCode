@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/rixshavv/LeetCode/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/rixshavv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rixshavv/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rixshavv/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/rixshavv/LeetCode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/rixshavv/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rixshavv/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rixshavv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rixshavv/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/rixshavv/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rixshavv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/rixshavv/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1854-maximum-population-year](https://github.com/rixshavv/LeetCode/tree/master/1854-maximum-population-year) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rixshavv/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rixshavv/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/rixshavv/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3978-unique-middle-element](https://github.com/rixshavv/LeetCode/tree/master/3978-unique-middle-element) |
 ## Enumeration
